@@ -20,10 +20,10 @@ Steps 2 through 5 repeat for the number of cycles you set (typically 6). All dur
 - Progress ring and cycle counter (for example, CYCLE 3 / 6)
 - Keeps the screen awake during a workout
 
-## Install on iPhone
+## Install on iPhone (≥ iOS 26)
 
 1. Open https://mfd3264.github.io/Sit-timer/ in Safari
-2. Tap the Share button
+2. Tap the three dots (...) next to the address bar, then Share
 3. Tap Add to Home Screen, then Add
 
 It opens full screen like a regular app. No App Store download or account is needed.
