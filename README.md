@@ -22,7 +22,7 @@ Steps 2 through 5 repeat for the number of cycles you set (typically 6). All dur
 
 ## Install on iPhone
 
-1. Open https://mfd3264.github.io/sit-timer/ in Safari
+1. Open https://mfd3264.github.io/Sit-timer/ in Safari
 2. Tap the Share button
 3. Tap Add to Home Screen, then Add
 
